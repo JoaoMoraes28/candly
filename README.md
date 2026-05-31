@@ -40,7 +40,7 @@ O Candy Manager é uma aplicação web criada para auxiliar no gerenciamento de 
 ### Banco de Dados
 - SQL
 
-## ⚙️ Instalação
+## Instalação
 
 ### 1. Clone o repositório
 
