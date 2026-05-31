@@ -70,7 +70,7 @@ cd backend
 npm install
 ```
 
-## 🔧 Configuração
+## Configuração
 
 Crie um arquivo `.env` no diretório do back-end contendo as variáveis necessárias:
 
@@ -84,13 +84,13 @@ DB_PASSWORD=senha
 DB_NAME=db_candy
 ```
 
-## 🗄️ Executando as Migrations
+## Executando as Migrations
 
 ```bash
 npx knex migrate:latest
 ```
 
-## ▶️ Executando o Projeto
+## Executando o Projeto
 
 ### Back-End
 
